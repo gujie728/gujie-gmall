@@ -1,5 +1,10 @@
 .idea/
-.gmall-1026.iml/
+*.iml/
+target/
+.mvn/
+mvnw*
+
+
 # Compiled class file
 *.class
 
